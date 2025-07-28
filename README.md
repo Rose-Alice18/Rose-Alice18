@@ -14,7 +14,7 @@
 🎯 I'm a passionate developer who loves building innovative projects and exploring new technologies!
 
 - 🌱 Currently learning **Full-Stack Development** (MERN Stack, Python, Blockchain)
-- 💼 Working on exciting projects like **ChatChain** - a decentralized chat application
+- 💼 Working on exciting **projects** 
 - 🎨 Interested in creating user-friendly interfaces and seamless user experiences
 - 🔍 Always exploring the latest in tech and development trends
 
@@ -54,6 +54,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-009688?style=for-the-badge&logo=langgraph&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-009688?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 ### 🔧 Tools & Technologies
