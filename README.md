@@ -1,7 +1,7 @@
-# Hey there! I'm Rose-Alice (Roseline + Alice) 👋🏾
+# Hey there! I'm Roseline Tsatsu 👋🏾
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning!+%F0%9F%8E%A8;Full-Stack+Enthusiast+%F0%9F%92%BB;Music+%26+Art+Lover+%F0%9F%8E%B9;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Creative+Developer+%F0%9F%8E%A8;Full-Stack+Enthusiast+%F0%9F%92%BB;Music+%26+Art+Lover+%F0%9F%8E%B9;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +14,6 @@
 - 💼 Working on exciting projects like **ChatChain** - a decentralized chat application
 - 🎨 Interested in creating user-friendly interfaces and seamless user experiences
 - 🔍 Always exploring the latest in tech and development trends
-- 🎵 Music lover 
 
 ---
 
@@ -64,7 +63,7 @@
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
+---
 
 <div align="center">
 
@@ -78,7 +77,7 @@
 
 </div>
 
-
+---
 
 ## 🎯 Featured Projects
 
@@ -95,34 +94,32 @@ Web development project for laundry management
 
 ---
 
-🎵 Beyond the Code
-<div align="center">
-const roseAlice = {
-    identity: "Creative Developer & Digital Artist 🎨",
-    location: "Ghana 🇬🇭",
+## 🎵 Beyond the Code
+
+```
+const roseline = {
+    identity: "Creative Developer & Digital Artist",
     pronouns: "she/her",
-    
-    // What drives me
-    passions: [
-        "Building innovative web applications 💻",
-        "Creating beautiful user experiences 🎨", 
-        "Music production & piano 🎹",
-        "Digital art & storytelling 📚"
-    ],
-    
-    // My toolkit
-    currentlyLearning: ["Blockchain Development", "AI/ML", "Mobile Development"],
-    askMeAbout: ["Web Dev", "Blockchain", "UX Design", "Music Production"],
-    
-    // Core values
-    philosophy: "Technology + Creativity = Endless Possibilities ✨",
-    motto: "Build with empathy. Innovate with purpose.",
-    funFact: "I compose music while coding - rhythm fuels creativity! 🎧"
+    code: ["JavaScript", "HTML", "CSS", "Python", "PHP"],
+    askMeAbout: ["web dev", "blockchain", "user experience", "music production"],
+    passions: ["Music Production 🎹", "Digital Art 🎨", "Storytelling 📚"],
+    instruments: ["Piano", "Drums", "Digital Audio Workstation"],
+    technologies: {
+        frontEnd: ["HTML", "CSS", "JavaScript"],
+        backEnd: ["Node.js", "PHP", "FastAPI"],
+        blockchain: ["Internet Computer Protocol"],
+        tools: ["Git", "GitHub", "VS Code"]
+    },
+    hobbies: ["Painting", "Adventure Travel 🌍", "Cultural Exploration"],
+    currentFocus: "Building decentralized applications",
+    philosophy: "Technology + Creativity = Endless Possibilities",
+    funFact: "Music fuels my coding sessions! 🎧"
 };
+```
 
-console.log("Let's create something amazing together! 🚀");
-</div>
+---
 
+<div align="center">
 
 ## 🌟 Support My Creative Journey
 
@@ -130,7 +127,7 @@ console.log("Let's create something amazing together! 🚀");
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -143,13 +140,13 @@ console.log("Let's create something amazing together! 🚀");
 
 </div>
 
-
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rose-Alice18&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
-
+---
 
 <div align="center">
 
