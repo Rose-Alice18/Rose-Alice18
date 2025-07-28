@@ -95,27 +95,51 @@ Web development project for laundry management
 
 ---
 
-## 🎵 Beyond the Code
-
-```javascript
-const roseline = {
-    identity: "Creative Developer & Digital Artist",
+<div align="center">
+🎵 Beyond the Code
+</div>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+👩‍💻 Developer Profile
+javascriptconst roseline = {
+    identity: "Creative Developer",
     pronouns: "she/her",
-    code: ["JavaScript", "HTML", "CSS", "Python", "PHP"],
-    askMeAbout: ["web dev", "blockchain", "user experience", "music production"],
-    passions: ["Music Production 🎹", "Digital Art 🎨", "Storytelling 📚"],
-    instruments: ["Piano", "Drums", "Digital Audio Workstation"],
-    technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript"],
-        backEnd: ["Node.js", "PHP", "FastAPI"],
-        blockchain: ["Internet Computer Protocol"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-    hobbies: ["Painting", "Adventure Travel 🌍", "Cultural Exploration"],
-    currentFocus: "Building decentralized applications",
-    philosophy: "Technology + Creativity = Endless Possibilities",
-    funFact: "I compose music while coding - music fuels my coding sessions! 🎧"
+    location: "Ghana 🇬🇭",
+    currentFocus: "Decentralized Apps",
+    philosophy: "Code + Art = Magic ✨"
 };
+🎨 Creative Side
+
+🎹 Piano Player - Classical & Contemporary
+🥁 Drummer - Rhythm is everything
+🎨 Digital Artist - UI/UX Design
+✍️ Storyteller - Through code & content
+
+</td>
+<td valign="top" width="50%">
+💻 Tech Arsenal
+json{
+  "languages": ["JavaScript", "Python", "PHP"],
+  "frontend": ["HTML5", "CSS3", "React"],
+  "backend": ["Node.js", "FastAPI"],
+  "blockchain": ["Internet Computer"],
+  "tools": ["Git", "VS Code", "Figma"]
+}
+🌟 Fun Facts
+
+🎧 Code with music always playing
+🌍 Love exploring new cultures
+📚 Avid reader of tech & fantasy books
+☕ Coffee fuels my creative sessions
+
+</td>
+</tr>
+</table>
+<div align="center">
+🚀 "Technology + Creativity = Endless Possibilities"
+Current Vibe: Building bridges between art and code 🌈
+</div>
 ```
 
 ---
