@@ -64,7 +64,7 @@
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 </div>
 
----
+
 
 ## 🎯 Featured Projects
 
@@ -95,56 +95,34 @@ Web development project for laundry management
 
 ---
 
-<div align="center">
 🎵 Beyond the Code
-</div>
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-👩‍💻 Developer Profile
-javascriptconst roseline = {
-    identity: "Creative Developer",
-    pronouns: "she/her",
+<div align="center">
+javascriptconst roseAlice = {
+    identity: "Creative Developer & Digital Artist 🎨",
     location: "Ghana 🇬🇭",
-    currentFocus: "Decentralized Apps",
-    philosophy: "Code + Art = Magic ✨"
+    pronouns: "she/her",
+    
+    // What drives me
+    passions: [
+        "Building innovative web applications 💻",
+        "Creating beautiful user experiences 🎨", 
+        "Music production & piano 🎹",
+        "Digital art & storytelling 📚"
+    ],
+    
+    // My toolkit
+    currentlyLearning: ["Blockchain Development", "AI/ML", "Mobile Development"],
+    askMeAbout: ["Web Dev", "Blockchain", "UX Design", "Music Production"],
+    
+    // Core values
+    philosophy: "Technology + Creativity = Endless Possibilities ✨",
+    motto: "Build with empathy. Innovate with purpose.",
+    funFact: "I compose music while coding - rhythm fuels creativity! 🎧"
 };
-🎨 Creative Side
 
-🎹 Piano Player - Classical & Contemporary
-🥁 Drummer - Rhythm is everything
-🎨 Digital Artist - UI/UX Design
-✍️ Storyteller - Through code & content
-
-</td>
-<td valign="top" width="50%">
-💻 Tech Arsenal
-json{
-  "languages": ["JavaScript", "Python", "PHP"],
-  "frontend": ["HTML5", "CSS3", "React"],
-  "backend": ["Node.js", "FastAPI"],
-  "blockchain": ["Internet Computer"],
-  "tools": ["Git", "VS Code", "Figma"]
-}
-🌟 Fun Facts
-
-🎧 Code with music always playing
-🌍 Love exploring new cultures
-📚 Avid reader of tech & fantasy books
-☕ Coffee fuels my creative sessions
-
-</td>
-</tr>
-</table>
-<div align="center">
-🚀 "Technology + Creativity = Endless Possibilities"
-Current Vibe: Building bridges between art and code 🌈
+console.log("Let's create something amazing together! 🚀");
 </div>
-```
 
----
-
-<div align="center">
 
 ## 🌟 Support My Creative Journey
 
