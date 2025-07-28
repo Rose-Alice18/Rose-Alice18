@@ -80,26 +80,6 @@ Show Image
 
 
 
-<!-- Greeting with emoji -->
-<h2 align="center">Hi there, I'm Roseline 👋</h2>
-
-<p align="center">
-🌍 Based in Ghana &nbsp;&nbsp; | &nbsp;&nbsp; 💡 Passionate about HealthTech, AI & Startups &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 Ashesi University Student  
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a curious builder, researcher, and entrepreneur currently studying at Ashesi University. I love combining **technology**, **design**, and **human-centered thinking** to build products that solve meaningful problems—especially in health and education across Africa.
-
-- 🧠 Currently building **FrɛDoctor** – an AI-powered health education platform  
-- 📚 Exploring AI, FastAPI, and telehealth tools  
-- 📝 Researching public perception of AI in healthcare in Ghana  
-- 🌱 Always learning something new and breaking things to build better
-
----
-
 ### 🛠️ Tech & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
@@ -112,28 +92,13 @@ I'm a curious builder, researcher, and entrepreneur currently studying at Ashesi
 
 ---
 
-### 💡 Projects
 
-- 🔬 [FrɛDoctor](https://github.com/yourprojectlink) – Multilingual AI-assisted health info platform  
-- 🍲 Simple Recipe Sharing Platform – Built with just HTML, CSS & love  
-- 🧪 AI Audio Note-Taker – Doctor-patient summarization assistant (under development)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roselinet&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselinet&theme=radical" width="400"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/roselinet)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roselinetsatsu)  
 - ✉️ Email: roseline.tsatsu@ashesi.edu.gh  
-- 🗣️ Let's talk about ideas, startups, or your favorite health tech tool!
+- 🗣️ Let's talk about ideas, startups, or your favourite tech tool!
 
 ---
 
