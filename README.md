@@ -97,7 +97,7 @@ Web development project for laundry management
 
 🎵 Beyond the Code
 <div align="center">
-javascriptconst roseAlice = {
+const roseAlice = {
     identity: "Creative Developer & Digital Artist 🎨",
     location: "Ghana 🇬🇭",
     pronouns: "she/her",
