@@ -1,10 +1,13 @@
-# Hey there! I'm Roseline Tsatsu 👋🏾
+# Hey there!👋🏾 I'm Rose-Alice (Roseline + Alice)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Creative+Developer+%F0%9F%8E%A8;Full-Stack+Enthusiast+%F0%9F%92%BB;Music+%26+Art+Lover+%F0%9F%8E%B9;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
+
 
 ## 🚀 About Me
 
@@ -15,7 +18,7 @@
 - 🎨 Interested in creating user-friendly interfaces and seamless user experiences
 - 🔍 Always exploring the latest in tech and development trends
 
----
+
 
 ## 🎯 Currently Working On
 
@@ -52,11 +55,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### 🎨 Creative Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -117,7 +122,7 @@ const roseline = {
 };
 ```
 
----
+
 
 <div align="center">
 
@@ -127,7 +132,7 @@ const roseline = {
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -140,13 +145,13 @@ const roseline = {
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rose-Alice18&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
----
+
 
 <div align="center">
 
