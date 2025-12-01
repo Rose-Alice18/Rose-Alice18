@@ -59,6 +59,15 @@
 
 
 
+### 🧠 Languages (Visual Icons)
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,go,c,cpp,solidity,motoko,html,css,sass,mysql,postgres" />
+
+</div>
+
+
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
