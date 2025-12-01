@@ -121,9 +121,9 @@
 <div align="center">
 📌 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rose-Alice18&theme=react-dark&hide_border=true&area=true" />
+  
 📊 Stats Panel (Animated)
-<img src="https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rose-Alice18&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rose-Alice18&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Alice18&layout=compact&theme=radical&hide_border=true" /> </div>
 
 
 
