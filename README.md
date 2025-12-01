@@ -102,6 +102,31 @@
 
 ---
 
+
+<div align="center">
+🛠️ Tools & Platforms
+</div>
+
+🧭 Git & GitHub
+🧪 Postman
+🐳 Docker
+📦 NPM / Yarn / Bun
+🎨 Figma
+🎞️ Adobe Suite
+☁️ Vercel • Netlify • GitHub Pages
+
+💙 Modern Animated Stack Display
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,java,go,solidity,nodejs,react,nextjs,express,fastapi,mysql,mongodb,figma,github,docker&theme=light" /> </div>
+🔥 Reactive GitHub Widgets
+<div align="center">
+📌 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rose-Alice18&theme=react-dark&hide_border=true&area=true" />
+📊 Stats Panel (Animated)
+<img src="https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rose-Alice18&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-
+
+
+
+
 <div align="center">
 
 ## 📈 GitHub Stats
