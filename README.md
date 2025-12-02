@@ -139,6 +139,22 @@
 
 </div>
 
+
+
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Roseline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rose-Alice18&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Alice18&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+
 ---
 
 ## 🎯 Featured Projects
