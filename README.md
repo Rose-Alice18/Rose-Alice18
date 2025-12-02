@@ -144,15 +144,14 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
-![Roseline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rose-Alice18&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Alice18&layout=compact&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Rose-Alice18&color=F75C7E&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rose-Alice18?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/Rose-Alice18?affiliations=OWNER&style=for-the-badge&logo=github)
 
 </div>
+
 
 
 ---
