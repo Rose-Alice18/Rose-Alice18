@@ -141,6 +141,22 @@
 
 
 
+<div align="center">
+
+## 📊 GitHub Stats
+
+<!-- Main stats card -->
+![Roseline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose-Alice18&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
+
+<!-- Streak card -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Rose-Alice18&theme=synthwave&hide_border=true)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Alice18&layout=compact&theme=synthwave&hide_border=true)
+
+</div>
+
+
 
 <div align="center">
 
